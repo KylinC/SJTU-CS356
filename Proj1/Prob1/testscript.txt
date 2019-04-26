@@ -1,0 +1,6 @@
+root@generic:/data/misc # insmod sys_MyPtree.ko                                
+root@generic:/data/misc # lsmod
+Module                  Size  Used by
+sys_MyPtree             1373  0 
+root@generic:/data/misc # 
+

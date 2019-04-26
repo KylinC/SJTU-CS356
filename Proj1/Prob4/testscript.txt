@@ -1,0 +1,49 @@
+Server:
+
+root@generic:/data/misc # ./Server                                             
+Server initiating...
+Receiving message:abcdefghi
+Receiving message:389595603sfgrfd
+Receiving message:fsdfsedf
+Receiving message:edgsdsfsd
+Receiving message:()saxwsx
+Server thread closing...
+Receiving message:kylin_kylin
+
+////////////////////////////////////////////////////////////////////////
+
+Client1:
+
+root@generic:/data/misc # ./Client
+Please enter the message:
+abcdefghi
+From server:defghijkl
+fsdfsedf
+From server:ivgivhgi
+
+/////////////////////////////////////////////////////////////////////////
+
+Client2:
+
+root@generic:/data/misc # ./Client                                             
+Please enter the message:
+389595603sfgrfd
+From server:389595603vijuig
+edgsdsfsd
+From server:hgjvgvivg
+()saxwsx
+From server:()vdazva
+:q
+Clinet closing...
+
+////////////////////////////////////////////////////////////////////////
+
+Client3:
+
+Please enter the message:
+jakedeukdf8909
+From server: Please wait...
+kylin_kylin
+From server:nbolq_nbolq
+
+/////////////////////////////////////////////////////////////////////
