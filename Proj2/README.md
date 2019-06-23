@@ -617,7 +617,7 @@ To achieve this Algorithm replacement, we just need to modify the file in *inclu
 // in the kernel file: goldfish/include/linux/mm_types.h
 struct page{
 /* ----------- ------------- */
-unsigned long lastRefTime; 
+unsigned long RankMyDefine; 
 /* ----------- ------------- */
 };
 ```
